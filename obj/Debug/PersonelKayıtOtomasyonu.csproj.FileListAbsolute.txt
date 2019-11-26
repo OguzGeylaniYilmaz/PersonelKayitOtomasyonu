@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\bin\Debug\PersonelKayıtOtomasyonu.exe.config
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\bin\Debug\PersonelKayıtOtomasyonu.exe
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\bin\Debug\PersonelKayıtOtomasyonu.pdb
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.Form1.resources
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.Properties.Resources.resources
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.exe
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.pdb
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.Giris.resources
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.FrmIstatistik.resources
+C:\Users\User\Desktop\C# Form\PersonelKayıtOtomasyonu\PersonelKayıtOtomasyonu\obj\Debug\PersonelKayıtOtomasyonu.FrmGrafik.resources
