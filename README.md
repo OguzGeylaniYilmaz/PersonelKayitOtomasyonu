@@ -1,2 +1,2 @@
 # PersonelKayitOtomasyonu
-C# ve MSSQL kullanarak yaptığım oersonel ekleme,silme,güncelleme ve listeleme yapabileceğiniz bir uygulamadır.
+C# Windows Form ve MSSQL veritabanı kullanarak yaptığım personel ekleme,silme,güncelleme ve listeleme işlemleri yapabileceğiniz yapabileceğiniz bir uygulamadır.
