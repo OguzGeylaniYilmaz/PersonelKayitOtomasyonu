@@ -1,2 +1,2 @@
 # Personnel Registration Project
-C# Windows Form ve MSSQL veritabanı kullanarak yaptığım personel ekleme,silme,güncelleme ve listeleme işlemleri yapabileceğiniz yapabileceğiniz bir uygulamadır.
+It is an application where you can add, delete, update and list personnel using C#, Windows Form and MSSQL database.
